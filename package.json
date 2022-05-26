@@ -1,0 +1,29 @@
+{
+  "name": "precodigo",
+  "version": "0.1.0",
+  "description": "precodigo js",
+  "main": "precodigo.js",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codehubso/codehub-lang.git"
+  },
+  "keywords": [
+    "precodigo"
+  ],
+  "author": "codehub.so",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codehubso/codehub-lang/issues"
+  },
+  "homepage": "https://github.com/codehubso/codehub-lang#readme",
+  "dependencies": {
+    "rollup": "^2.55.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^20.0.0"
+  }
+}
